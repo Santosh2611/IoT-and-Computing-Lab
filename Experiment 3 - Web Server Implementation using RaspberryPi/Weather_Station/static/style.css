@@ -1,0 +1,17 @@
+.title {
+	font-family: Roboto;
+	color: #FFFFFF;
+}
+
+body {
+background: navy;
+color: yellow;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+
+h1 {
+border-bottom: 1px solid gold;
+margin-bottom: 40px;
+padding: 10px;
+}
